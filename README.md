@@ -1,9 +1,4 @@
-# Dinesh Pandiyan
-
-This repo holds my **Dev Landing Page**, a one stop shop to everything I do online. 🎉
-
-`master` branch has the deploy files. The source code is in `dev` branch [here](https://github.com/flexdinesh/flexdinesh.github.io/tree/dev).
-
+# Radi Barq
+This repo holds my online portfolio website code, my website is developed using React Js.
 ## License
-
-MIT © Dinesh Pandiyan
+This website is licensed under the MIT License
